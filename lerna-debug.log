@@ -1,4 +1,0 @@
-0 silly argv { _: [ 'create' ], lernaVersion: '4.0.0', '$0': 'lerna', name: 'core' }
-1 notice cli v4.0.0
-2 verbose rootPath /Users/beka/Desktop/code/personal/beka-cli
-3 error
