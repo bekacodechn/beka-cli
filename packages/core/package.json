@@ -1,6 +1,6 @@
 {
   "name": "@bekacode/core",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "w_shilinjun <bekacodechn@hotmail.com>",
   "homepage": "https://github.com/bekacodechn/beka-cli#readme",
@@ -27,6 +27,6 @@
     "url": "https://github.com/bekacodechn/beka-cli/issues"
   },
   "dependencies": {
-    "@bekacode/util": "^1.0.0"
+    "@bekacode/util": "^0.0.1"
   }
 }
