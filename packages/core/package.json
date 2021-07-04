@@ -28,5 +28,6 @@
   },
   "dependencies": {
     "@bekacode/util": "^0.0.1"
-  }
+  },
+  "gitHead": "dfaff60186b399d14288341baaca47c2acf2170f"
 }
