@@ -21,7 +21,7 @@
     "url": "git+https://github.com/bekacodechn/beka-cli.git"
   },
   "scripts": {
-    "test": "echo util!!"
+    "test": "echo util!!~"
   },
   "bugs": {
     "url": "https://github.com/bekacodechn/beka-cli/issues"
