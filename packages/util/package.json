@@ -14,7 +14,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/bekacodechn/beka-cli/issues"
   },
-  "gitHead": "5f7090bfde81e59a3914738d43d3a2e1d2134a8c"
+  "gitHead": "8cb04b2e75b2e296c85e576ddfa0fdebbed9b902"
 }
